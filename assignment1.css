@@ -1,0 +1,74 @@
+body{
+    margin: 25px;
+}
+
+.nav ul {
+    margin: 0;
+   
+}
+
+.main-nav li {
+    display: inline;
+    padding-left: 1.8cm;
+   
+}
+
+.main-nav a {
+    display: inline-block;
+    padding: .5em;
+    color:white;
+    text-decoration: none;
+
+}
+
+.main-nav a:hover{
+    background-color: rgba(255,255,255,.3);
+}
+
+.main-nav{
+    text-align: center;
+}
+
+.main-header {
+   
+    background-color: darkslategrey;
+}
+
+.btn-search {
+    background-color: pink;
+    color: white;
+}
+
+.new{
+    color: indianred;
+    font-size: small;
+}
+
+.td1 {
+    padding-left: 3cm;
+  
+}
+
+.box {
+    
+    height: 300px;
+    width: 400px;
+    background: linear-gradient(to bottom right,linen 50%,pink 50%);
+   
+
+}
+ .section2{
+     text-align: center;
+     background-color: linen
+ }
+
+ .imgs {
+    
+    z-index: 5;
+ }
+
+ .footer {
+     height: 30px;
+    width: 100%;
+    background-image: linear-gradient(-290deg, pink 30% , white 70% );
+ }
